@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+header .head h1{
+	background:#011e29;
+	color:white;
+}
+body{
+	background:#f5f5f5;
+}
+.container{
+	display:flex;
+	margin:30px;
+}
+.pictorial img{
+	width:150px;
+	height:100px;
+}
+.article{
+	padding:60px;
+	background:white;
+	margin:20px;
+	height:160px;
+
+}
+.Main{
+	padding:60px;
+	background:white;
+	margin:20px;
+	height:240px;
+}
+	
+.pictorial{
+	padding:60px;
+	background:white;
+	margin:20px;
+}
