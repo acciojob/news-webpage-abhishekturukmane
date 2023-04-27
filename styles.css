@@ -10,16 +10,19 @@ body{
 	display:flex;
 	margin:30px;
 }
-.pictorial img{
+.pictorial-news-section img{
 	width:150px;
 	height:100px;
 }
-.article{
+.latest-news-section{
 	padding:60px;
 	background:white;
 	margin:20px;
 	height:160px;
 
+}
+.head h1{
+	text-align:center;
 }
 .Main{
 	padding:60px;
@@ -28,7 +31,7 @@ body{
 	height:240px;
 }
 	
-.pictorial{
+.pictorial-news-section{
 	padding:60px;
 	background:white;
 	margin:20px;
